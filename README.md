@@ -1,14 +1,8 @@
-# NuGet
+# Libraries
 
-This repository contains the NuGet packages for the Roblox Platform.
+This issue is a hub for each library within the Roblox platform.
 
----
-
-
-# Issues
-
-Please don't refrain from opening issues!
-
-This will help the primary members of the Web Team to identify issues that arise, please open them on GitHub.
+To gain access to some of these repositories you will need to be in the respective team.
 
 ---
+
