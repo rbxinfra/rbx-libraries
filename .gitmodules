@@ -1,0 +1,42 @@
+[submodule "lib/event-log"]
+	path = lib/event-log
+	url = git@github.com:rbxinfra/event-log.git
+[submodule "lib/hashing"]
+	path = lib/hashing
+	url = git@github.com:rbxinfra/hashing-core.git
+[submodule "lib/sentinels"]
+	path = lib/sentinels
+	url = git@github.com:rbxinfra/sentinels-core.git
+[submodule "lib/pipeline"]
+	path = lib/pipeline
+	url = git@github.com:rbxinfra/pipeline-core.git
+[submodule "lib/application-context"]
+	path = lib/application-context
+	url = git@github.com:rbxinfra/application-context-core.git
+[submodule "lib/request-context"]
+	path = lib/request-context
+	url = git@github.com:rbxinfra/request-context-core.git
+[submodule "lib/threading"]
+	path = lib/threading
+	url = git@github.com:rbxinfra/threading-core.git
+[submodule "lib/telemetry"]
+	path = lib/telemetry
+	url = git@github.com:rbxinfra/telemetry-core.git
+[submodule "lib/operations"]
+	path = lib/operations
+	url = git@github.com:rbxinfra/operations-core.git
+[submodule "lib/time"]
+	path = lib/time
+	url = git@github.com:rbxinfra/time-core.git
+[submodule "lib/random"]
+	path = lib/random
+	url = git@github.com:rbxinfra/random-core.git
+[submodule "lib/common"]
+	path = lib/common
+	url = git@github.com:rbxinfra/common-legacy.git
+[submodule "lib/translation-resources"]
+	path = lib/translation-resources
+	url = git@github.com:rbxinfra/translation-resources.git
+[submodule "lib/serialization"]
+	path = lib/serialization
+	url = git@github.com:rbxinfra/serialization-core.git
