@@ -2,7 +2,12 @@
 
 This issue is a hub for each library within the Roblox platform.
 
-To gain access to some of these repositories you will need to be in the respective team.
+# Access
+
+To gain access to some of these repositories you will need to be in the respective team or:
+
+Please note that if a repository is inaccessible within this repository, and you are not part of their respective team:
+It means that the repository was deemed not ready for publication, and will be released in the near future.
 
 # Notice
 
