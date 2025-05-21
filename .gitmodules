@@ -40,3 +40,6 @@
 [submodule "lib/serialization"]
 	path = lib/serialization
 	url = git@github.com:rbxinfra/serialization-core.git
+[submodule "lib/vault"]
+	path = lib/vault
+	url = git@github.com:rbxinfra/vault-core.git
