@@ -52,3 +52,18 @@
 [submodule "lib/redis"]
 	path = lib/redis
 	url = git@github.com:rbxinfra/redis-core.git
+[submodule "lib/instrumentation"]
+	path = lib/instrumentation
+	url = git@github.com:rbxinfra/instrumentation-core.git
+[submodule "lib/caching"]
+	path = lib/caching
+	url = git@github.com:rbxinfra/caching-core.git
+[submodule "lib/data"]
+	path = lib/data
+	url = git@github.com:rbxinfra/data-core.git
+[submodule "lib/mssql"]
+	path = lib/mssql
+	url = git@github.com:rbxinfra/mssql-core.git
+[submodule "lib/networking"]
+	path = lib/networking
+	url = git@github.com:rbxinfra/networking-core.git
