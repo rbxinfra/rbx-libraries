@@ -46,3 +46,6 @@
 [submodule "lib/configuration"]
 	path = lib/configuration
 	url = git@github.com:rbxinfra/configuration-core.git
+[submodule "lib/service-discovery"]
+	path = lib/service-discovery
+	url = git@github.com:rbxinfra/service-discovery-core.git
