@@ -49,3 +49,6 @@
 [submodule "lib/service-discovery"]
 	path = lib/service-discovery
 	url = git@github.com:rbxinfra/service-discovery-core.git
+[submodule "lib/redis"]
+	path = lib/redis
+	url = git@github.com:rbxinfra/redis-core.git
