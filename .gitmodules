@@ -76,3 +76,6 @@
 [submodule "lib/paging"]
 	path = lib/paging
 	url = git@github.com:rbxinfra/paging-core.git
+[submodule "lib/api-client-base"]
+	path = lib/api-client-base
+	url = git@github.com:rbxinfra/api-client-base-core.git
