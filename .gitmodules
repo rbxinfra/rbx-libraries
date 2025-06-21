@@ -73,3 +73,6 @@
 [submodule "lib/collections"]
 	path = lib/collections
 	url = git@github.com:rbxinfra/collections-core.git
+[submodule "lib/paging"]
+	path = lib/paging
+	url = git@github.com:rbxinfra/paging-core.git
