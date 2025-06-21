@@ -67,3 +67,6 @@
 [submodule "lib/networking"]
 	path = lib/networking
 	url = git@github.com:rbxinfra/networking-core.git
+[submodule "lib/entities"]
+	path = lib/entities
+	url = git@github.com:rbxinfra/entities-core.git
