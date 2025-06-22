@@ -79,3 +79,6 @@
 [submodule "lib/api-client-base"]
 	path = lib/api-client-base
 	url = git@github.com:rbxinfra/api-client-base-core.git
+[submodule "lib/amazon"]
+	path = lib/amazon
+	url = git@github.com:rbxinfra/amazon-core.git
