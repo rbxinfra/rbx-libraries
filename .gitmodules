@@ -82,3 +82,6 @@
 [submodule "lib/amazon"]
 	path = lib/amazon
 	url = git@github.com:rbxinfra/amazon-core.git
+[submodule "lib/coordination"]
+	path = lib/coordination
+	url = git@github.com:rbxinfra/coordination-core.git
