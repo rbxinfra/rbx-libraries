@@ -85,3 +85,6 @@
 [submodule "lib/coordination"]
 	path = lib/coordination
 	url = git@github.com:rbxinfra/coordination-core.git
+[submodule "lib/grid"]
+	path = lib/grid
+	url = git@github.com:rbxinfra/rcc-core.git
