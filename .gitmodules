@@ -88,3 +88,6 @@
 [submodule "lib/grid"]
 	path = lib/grid
 	url = git@github.com:rbxinfra/rcc-core.git
+[submodule "lib/services"]
+	path = lib/services
+	url = git@github.com:rbxinfra/services-core.git
