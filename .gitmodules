@@ -91,3 +91,6 @@
 [submodule "lib/services"]
 	path = lib/services
 	url = git@github.com:rbxinfra/services-core.git
+[submodule "lib/http"]
+	path = lib/http
+	url = git@github.com:rbxinfra/http-core.git
