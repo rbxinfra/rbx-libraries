@@ -94,3 +94,6 @@
 [submodule "lib/http"]
 	path = lib/http
 	url = git@github.com:rbxinfra/http-core.git
+[submodule "lib/grpc"]
+	path = lib/grpc
+	url = git@github.com:rbxinfra/grpc-core.git
