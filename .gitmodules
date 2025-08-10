@@ -100,3 +100,6 @@
 [submodule "lib/floodcheckers"]
 	path = lib/floodcheckers
 	url = git@github.com:rbxinfra/floodcheckers-core.git
+[submodule "lib/infrastructure"]
+	path = lib/infrastructure
+	url = git@github.com:rbxinfra/diagnostics-core.git
