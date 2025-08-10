@@ -97,3 +97,6 @@
 [submodule "lib/grpc"]
 	path = lib/grpc
 	url = git@github.com:rbxinfra/grpc-core.git
+[submodule "lib/floodcheckers"]
+	path = lib/floodcheckers
+	url = git@github.com:rbxinfra/floodcheckers-core.git
