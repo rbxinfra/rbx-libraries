@@ -103,3 +103,6 @@
 [submodule "lib/infrastructure"]
 	path = lib/infrastructure
 	url = git@github.com:rbxinfra/diagnostics-core.git
+[submodule "lib/api-clients"]
+	path = lib/api-clients
+	url = git@github.com:rbxinfra/http-clients-core.git
