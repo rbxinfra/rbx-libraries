@@ -106,3 +106,6 @@
 [submodule "lib/api-clients"]
 	path = lib/api-clients
 	url = git@github.com:rbxinfra/http-clients-core.git
+[submodule "lib/platform/agents"]
+	path = lib/platform/agents
+	url = git@github.com:rbxinfra/agents-platform.git
