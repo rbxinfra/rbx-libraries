@@ -109,3 +109,6 @@
 [submodule "lib/platform/agents"]
 	path = lib/platform/agents
 	url = git@github.com:rbxinfra/agents-platform.git
+[submodule "lib/web/framework"]
+	path = lib/web/framework
+	url = git@github.com:rbxinfra/web-framework-core.git
