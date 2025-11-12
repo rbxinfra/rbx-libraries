@@ -112,3 +112,9 @@
 [submodule "lib/web/framework"]
 	path = lib/web/framework
 	url = git@github.com:rbxinfra/web-framework-core.git
+[submodule "lib/platform/core"]
+	path = lib/platform/core
+	url = git@github.com:rbxinfra/core-platform.git
+[submodule "lib/platform/client-settings"]
+	path = lib/platform/client-settings
+	url = git@github.com:rbxinfra/client-settings-platform.git
