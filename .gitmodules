@@ -118,3 +118,6 @@
 [submodule "lib/platform/client-settings"]
 	path = lib/platform/client-settings
 	url = git@github.com:rbxinfra/client-settings-platform.git
+[submodule "lib/load-balancing"]
+	path = lib/load-balancing
+	url = git@github.com:rbxinfra/load-balancing-core.git
